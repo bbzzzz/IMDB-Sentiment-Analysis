@@ -15,8 +15,9 @@ Accuracy:
  * Boolean NB: 73.85%
  * NB with stop word filterd: 81.10%
  * NB with negation features: 81.80%    
-====================================
+
 Support Vector Machine:
+====================================
 * sklearn LinearSVC
 * 10-fold cross validation
 * accuracy 88.45%
