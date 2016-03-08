@@ -1,11 +1,12 @@
 Sentiment Analysis using Machine Learning
 ====================================
 * Naive Bayes
+* Support Vector Machine
 * Add-1 smoothing
 * 10-fold cross validation
 * regular expression detecting negation words
 
-Besides the regular method, the code also realized: 
+Besides the regular Naive Bayes method, the code also realized: 
 * Boolean Naive Bayes
 * Naive Bayes with stop word
 * Naive Bayes with negation features (not, never, n't)
