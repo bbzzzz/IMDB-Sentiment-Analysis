@@ -1,5 +1,3 @@
-# IMDB-Sentiment-Analysis
-
 Sentiment Analysis using Machine Learning methods
 ====================================
 * Naive Bayes
