@@ -1,4 +1,4 @@
-Sentiment Analysis using Machine Learning
+Sentiment Analysis with Naive Bayes
 ====================================
 * Naive Bayes
 * Add-1 smoothing
