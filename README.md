@@ -1,7 +1,6 @@
 Sentiment Analysis using Machine Learning
 ====================================
 * Naive Bayes
-* Support Vector Machine
 * Add-1 smoothing
 * 10-fold cross validation
 * regular expression detecting negation words
@@ -16,3 +15,8 @@ Accuracy:
  * Boolean NB: 73.85%
  * NB with stop word filterd: 81.10%
  * NB with negation features: 81.80%    
+====================================
+Support Vector Machine:
+* sklearn LinearSVC
+* 10-fold cross validation
+* accuracy 88.45%
